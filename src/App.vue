@@ -91,7 +91,7 @@ final1:`自从我们认得啊，我算算.......
     this.audio = new Audio();
     this.audio.autoplay = true;
     this.audio.volume = 0.5
-    this.audio.src = "../static/五月天 - 我不愿让你一个人.mp3";
+    this.audio.src = "http://dl.stream.qqmusic.qq.com/C400003bdk0E4ffToY.m4a?vkey=EDADC4EEC871E9474FF354B8546720719ABEB7D46D5945E3147A9674E14A251F04B8969BFD08AF2EF9A63CE0E53CC74E4A76D055AFEA0319&guid=7822771012&uin=1162374744&fromtag=663";
     
     setTimeout(()=>{
       this.index += 1
